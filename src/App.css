@@ -28,6 +28,9 @@ body{
   cursor: pointer;
   
 }
+#heading:hover{
+  color:blue;
+}
 .nav-btn{
 
  height: 40px;
