@@ -93,9 +93,9 @@ export default function App() {
      
       <h1 id='f1' onClick={()=>{fontFamily('Courier New ')}}>Hello</h1>
       <h1 id='f2' onClick={()=>{fontFamily('Franklin Gothic Medium')}}>Hello</h1>
-      <h1 id='f3' onClick={()=>{fontFamily('Gill Sans')}}>Hello</h1>
-      <h1 id='f4' onClick={()=>{fontFamily('Arial')}}>Hello</h1>
-      <h1 id='impact' onClick={()=>{fontFamily('Impact')}}>Hello</h1>
+      <h1 id='f3' onClick={()=>{fontFamily('Segoe UI')}}>Hello</h1>
+      <h1 id='f4' onClick={()=>{fontFamily('cursive')}}>Hello</h1>
+      <h1 id='impact' onClick={()=>{fontFamily('Times New Roman')}}>Hello</h1>
      
     </div> 
   </div>
